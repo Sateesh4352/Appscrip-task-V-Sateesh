@@ -1,0 +1,68 @@
+.header-upper{
+    display: flex;
+    justify-content: space-between;
+    padding-left:90px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+    padding-right: 90px;
+}
+.header-list{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 7px;   
+}
+
+.values{
+    padding-left: 200px;
+    width: 79px;
+    height: 24px;
+}
+
+.values2{
+    padding-right: 300px;
+}
+
+.logo{
+    width: 36px;
+    height: 36px;
+}
+
+.heading{
+    width: 107px;
+    height: 44px;
+    top: 36px;
+    left: 667px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 180px;
+}
+
+.icon{
+    width: 24px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    padding-left: 20px;
+}
+
+.options{
+    border: none;
+    padding-left: 24px;
+    font-weight: 800;
+}
+
+.options-container{
+    margin-top: 3px;
+}
+
+.icon-container{
+    display: flex;
+}
+
+.hr1 {
+    border: none;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
+}
+  

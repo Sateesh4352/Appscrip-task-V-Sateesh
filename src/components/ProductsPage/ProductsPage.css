@@ -1,0 +1,74 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+
+.productsflex{
+    display: flex;
+}
+  
+.dropdown-header{
+    display: flex;
+}
+
+.unorder-checklist{
+    list-style-type: none;
+    margin-left:-40px ;
+}
+
+.discover-products{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 260px;
+  padding-right: 260px;
+}
+
+.discover-products h1{
+  font-family: Simplon Norm;
+  font-size: 60px;
+  font-weight: 100;
+  text-align: center;
+}
+
+.discover-products p{
+  font-family: Simplon Norm;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;               
+}
+
+.hr2 {
+  border: none;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 10px 0;
+}
+
+.main-container{
+  margin-left:70px ;
+  margin-right: 70px;
+}
+
+.options1{
+  border: none;
+  padding-left: 24px;
+  font-weight: 1000;
+  font-size: 20px;
+  padding-left: 700px;
+}
+
+.nav h1{
+  font-weight: 1000;
+  font-size: 20px;
+
+}
+
+.nav h2{
+  color: #888792;
+  text-decoration: underline;
+  padding-left: 30px;
+}

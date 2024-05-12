@@ -1,0 +1,43 @@
+
+.unorderlist {
+    display: flex;
+    flex-wrap: nowrap ;
+    flex-wrap: wrap;
+    padding: 0;
+    list-style-type: none;
+  }
+    
+.unorderlist li {
+    width: 300px; 
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 0px solid #ccc;
+}
+
+.para{
+    font-size: 10px;
+}
+
+.image {
+    width: 300px;
+    height: 462px;
+}
+
+.title{
+    width: 269px;
+    height: 22px;
+    font-family: Simplon Norm;
+    font-weight: 700;
+    font-size: 18px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+  
+.flexer{
+    display: flex;
+}
+    
+.heart-image{
+    padding-top: 10px;
+}
